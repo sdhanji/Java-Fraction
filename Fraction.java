@@ -41,9 +41,9 @@
  *
  * 6) Finally, fill in the following fields:
  *
- * NAME: Shiv Dhanji
- * UNIVERSITY ID: 2109288
- * DEPARTMENT: Mathematics
+ * NAME:
+ * UNIVERSITY ID:
+ * DEPARTMENT:
  */
 
 /**
